@@ -1,0 +1,26 @@
+{
+  "name": "language-typescript-plus",
+  "version": "0.0.0",
+  "description": "Fully syntax highlighting support for Typescript",
+  "activationCommands": {
+  },
+  "repository": "https://github.com/OBomber/language-typescript-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "dependencies": {
+  },
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+      "folders": []
+  }
+
+}

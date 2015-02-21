@@ -1,0 +1,6 @@
+'.source.ts':
+  'reference path':
+    'prefix': 'ref'
+    'body':"""
+    /// <reference path="${1:jquery.d.ts}" />
+    """
